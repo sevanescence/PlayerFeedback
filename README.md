@@ -10,4 +10,4 @@ A plugin that allows your dear players to give you feedback on your server!
   - player uuid
   - feedback message
   - timestamp of message
-  
+  - feedback id
